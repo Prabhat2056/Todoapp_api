@@ -18,6 +18,7 @@ class _AddTodoPageState extends State<AddTodoPage> {
           TextField(
             decoration: InputDecoration(
               //labelText: 'Todo Title',
+              
               hintText: 'Title',
               border: OutlineInputBorder(),
             ),
